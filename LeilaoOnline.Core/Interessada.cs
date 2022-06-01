@@ -1,4 +1,4 @@
-﻿namespace LeilaoOnline.TestesUnitarios
+﻿namespace LeilaoOnline.Core
 {
     public class Interessada
     {
